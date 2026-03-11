@@ -1,7 +1,6 @@
 export const CONTRACT_ADDRESS = "0xfc79D96eF1FF5Cf89E525D8ff5Ab0444A1D1850d";
 export const UNIVERSAL_VERIFIER = "0xfcc86A79fCb057A8e55C6B853dff9479C3cf607c";
 
-export const 
 export const BASE_MAINNET_CHAIN_ID = 8453;
 
 export const CHAIN_CONFIG = {
